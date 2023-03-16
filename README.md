@@ -6,4 +6,4 @@ Integrantes del equipo:
 -Corona Márquez Juan Carlos.
 -Díaz Balbuena Daniel Esteban.
 -Flores Harrison Esmeralda.
--Reyes Oliveros Angel Esteban,
+-Reyes Oliveros Angel Esteban.
